@@ -1,7 +1,9 @@
-<p float="right">
+<div float="right">
 <img src="https://github.com/user-attachments/assets/01a992d2-8359-47fb-bb90-3cb1f57cc6ed" width="25%"> 
 <img src="https://github.com/user-attachments/assets/2799a926-582f-4e1a-92e1-ffd7e84ea530" width="65%">
-</p>
+</div>
+
+
 
 
 
